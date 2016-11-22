@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonDefender.CSharp.Plugins", "MoonDefender.CSharp.Plugins.csproj", "{BF00C7F3-3542-914F-D5A8-8B66AC3F3248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonDefender.CSharp", "MoonDefender.CSharp.csproj", "{3FAD510D-8F44-ED6B-EBFE-2619CB660271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonDefender.CSharp.Editor", "MoonDefender.CSharp.Editor.csproj", "{F6CDAA76-3243-2E46-471C-35E0A9F34205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF00C7F3-3542-914F-D5A8-8B66AC3F3248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF00C7F3-3542-914F-D5A8-8B66AC3F3248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF00C7F3-3542-914F-D5A8-8B66AC3F3248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF00C7F3-3542-914F-D5A8-8B66AC3F3248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAD510D-8F44-ED6B-EBFE-2619CB660271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAD510D-8F44-ED6B-EBFE-2619CB660271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAD510D-8F44-ED6B-EBFE-2619CB660271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAD510D-8F44-ED6B-EBFE-2619CB660271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CDAA76-3243-2E46-471C-35E0A9F34205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CDAA76-3243-2E46-471C-35E0A9F34205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CDAA76-3243-2E46-471C-35E0A9F34205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CDAA76-3243-2E46-471C-35E0A9F34205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
